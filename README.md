@@ -27,5 +27,3 @@ Las contribuciones son bienvenidas. Por favor, siga el proceso de *Pull Request*
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
 
-## Contacto
-Para más información, contáctese con el equipo de desarrollo a través de [correo electrónico](mailto:ejemplo@dominio.com) o [GitHub](https://github.com/Kronnos2006/Smart-Medicine-Dispenser).
